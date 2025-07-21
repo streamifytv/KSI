@@ -10,5 +10,11 @@
     "item": "30Amp charger",
     "price": 600,
     "timestamp": "2025-07-19T12:12:30.418Z"
+  },
+  {
+    "name": "Nasir",
+    "item": "charger_suply",
+    "price": 800,
+    "timestamp": "2025-07-21T16:09:46.143Z"
   }
 ]
