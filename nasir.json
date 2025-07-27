@@ -46,5 +46,11 @@
     "item": "20amp30amp",
     "price": 600,
     "timestamp": "2025-07-27T06:56:52.847Z"
+  },
+  {
+    "name": "Nihad",
+    "item": "30amp",
+    "price": 300,
+    "timestamp": "2025-07-27T06:57:09.049Z"
   }
 ]
