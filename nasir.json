@@ -28,5 +28,11 @@
     "item": "Bakaya ",
     "price": 500,
     "timestamp": "2025-08-03T05:07:48.123Z"
+  },
+  {
+    "name": "Nasir",
+    "item": "Inverter repair bakaya",
+    "price": 2000,
+    "timestamp": "2025-08-05T10:30:51.076Z"
   }
 ]
