@@ -1,0 +1,650 @@
+[
+  {
+    "name": "LATINOAMERICA-ESPN",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 6",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 7",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn7\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-DSports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-DSports 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-DSports Plus",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsportsplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-GOLTV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=goltv\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-VTV Plus",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=vtvplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ECDF LigaPro (eventos)",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Fox Sports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Fox Sports 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Fox Sports 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-TNT Sports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tntsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-ESPN Premium",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnpremium\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-TyC Sports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-TyC Sports Internacional (USA)",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycinternacional\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Telefe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telefe\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-TV Pública",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tvpublica\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PERÚ-GOLPERU",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=golperu\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PERÚ-Liga1 MAX",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=liga1max\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PERÚ-Movistar Deportes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=movistar\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "COLOMBIA-Win Sports Plus",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsportsplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "COLOMBIA-Win Sports plus (2)",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "COLOMBIA-Win Sports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportsmx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports Premium",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportspremium\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-TUDN",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tudn_mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnmx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Caliente TV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=calientetv\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Azteca 7",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=azteca7\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Canal 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=canal5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-TVC Deportes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tvc_deportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Azteca Deportes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=azteca_deportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Hisports",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=hisports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Sky Sports LaLiga",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Sky Sports Bundesliga",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Fox Deportes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxdeportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-ESPN Deportes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espndeportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-TUDN",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tudn\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Univisión",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=univision\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Fox Sports 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports1_usa\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Fox Sports 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2_usa\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Universo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=universo\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-BeIN Sports Español",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Unimás",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=unimas\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-BeIN Sports Xtra Español",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-ESPN",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn_usa\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-ESPN2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2_usa\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-ESPN U",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnu\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-CBS Sports Network",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=cbs_sports_network\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-USAnetwork",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=usanetwork\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-Telemundo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telemundo\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "CHILE-TNT Sports Chile",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eventos13\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 6",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 7",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere7\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 8",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere8\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Sportv",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Sportv 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Sportv 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Sport TV 6",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Canal 11",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=canal11_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven1_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven2_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven3_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven4_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven5_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PORTUGAL-Dazn Eleven 6",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eleven6_pt\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-DAZN 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-DAZN 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-DAZN 3 (eventos)",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-DAZN 4 (eventos)",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-DAZN LaLiga",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn_laliga\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-La 1 TVE",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=la1tve\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-Liga de Campeones 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ligadecampeones1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-Liga de Campeones 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ligadecampeones2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-Liga de Campeones 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ligadecampeones3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-M+ LaLiga TV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=m_laligatv\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ESPAÑA-LaLigaTV BAR",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=laligatvbar\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Sky Bundesliga 1",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Sky Bundesliga 2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Sky Bundesliga 3",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Sky Bundesliga 4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Sky Bundesliga 5",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sky_bundesliga5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-DAZN 1 DE",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn1_de\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-DAZN 2 DE",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn2_de\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 1 NL",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn1_nl\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 2 NL",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2_nl\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 3 NL",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3_nl\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-Dazn Eleven Pro 1 BE",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=elevenpro1_be\",\"type\":\"embed\"}"
+  }
+]
