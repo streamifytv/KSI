@@ -1,1 +1,4076 @@
-m
+[
+  {
+    "name": "08:00-Romania - Liga II : Voluntari vs AFCM Reşiţa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=400\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Polish Womens Ekstraliga : Pogon Szczecin vs GKS Katowice",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=128\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Romania - Liga II : FC Bacău vs ASA Târgu Mureş",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=400\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-U18 Premier League : Manchester United U18 vs Manchester City U18",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=377\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Portugal - Segunda liga : Sporting CP II vs Marítimo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=716\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Portugal - Segunda liga : Benfica II vs Torreense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=380\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Portugal - Segunda liga : Penafiel vs Felgueiras 1932",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=49\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Spain - Primera División Femenina : Levante Las Planas vs Real Sociedad",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=446\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "10:00-Spain - Primera División Femenina : Dux Logroño vs Alhama CF El Pozo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=447\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Latvia - Virsliga : FS Jelgava vs Auda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Kazakhstan Premier League : Ulytau vs Atyrau",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Croatia 2. HNL : NK Dugopolje vs. NK BSK Bijelo Brdo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=780\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Russia - Premier League : Akhmat Grozny vs Akron",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=573\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Russia - Premier League : Akhmat Grozny vs Akron",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=580\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Russia - Premier League : Akhmat Grozny vs Akron",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=430\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Sweden - Damallsvenskan : AIK vs Häcken",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Women's Super League : Arsenal vs Aston Villa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=130\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Women's Super League : Arsenal vs Aston Villa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=682\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Women's Super League : Arsenal vs Aston Villa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=411\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Elversberg vs Holstein Kiel",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Elversberg vs Holstein Kiel",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=77\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Elversberg vs Holstein Kiel",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=428\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Elversberg vs Holstein Kiel",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=467\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=86\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=556\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1023\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=457\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=429\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=103\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=584\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=465\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Paderborn vs Kaiserslautern",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=142\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Karlsruher SC vs Magdeburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=7\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Karlsruher SC vs Magdeburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=105\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Karlsruher SC vs Magdeburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1025\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Karlsruher SC vs Magdeburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=8\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:00-Bundesliga 2 : Karlsruher SC vs Magdeburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=431\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=35\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=910\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=49\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=289\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=124\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=499\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=135\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=223\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=434\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=468\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=420\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=95\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Championship : Coventry City vs Birmingham City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=141\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Romania - Liga I : UTA Arad vs Csikszereda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=400\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Romania - Liga I : UTA Arad vs Csikszereda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=583\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=31\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=9\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=343\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=845\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=595\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=445\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=10\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=455\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=870\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=121\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=463\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=134\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=125\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=123\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=599\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=432\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=466\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=81\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=149\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=64\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=414\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=61\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-England - Premier League : Brentford vs Manchester United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=140\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "11:30-Azerbaijan - Premier Liqa : Shamakhi vs Araz",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=11\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=538\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=276\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=451\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=771\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=427\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=456\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=498\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=137\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=402\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=398\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=712\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=375\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=12\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=631\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=433\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=474\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=747\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=585\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=150\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=415\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Spain - La Liga : Getafe vs Levante",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=94\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-France - Ligue 2 : Dunkerque vs Amiens SC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=494\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-France - Ligue 2 : Laval vs Montpellier",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=117\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Norway 1. Division : Skeid Fotball vs. Asane Fotball",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=160\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=13\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : Schweinfurt vs Alemannia Aachen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=14\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : Wehen Wiesbaden vs Saarbrücken",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=15\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : MSV Duisburg vs Ingolstadt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=16\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : Erzgebirge Aue vs 1860 München",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=17\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:00-Germany - 3. Liga : Hansa Rostock vs Havelse",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=18\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:45-Poland - Ekstraklasa : Korona Kielce vs Lechia Gdańsk",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=259\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "12:55-Africa - CAF Confederation Cup : Kaizer Chiefs vs Kabuscorp S.c.p",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=419\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Africa - CAF Champions League : Orlando Pirates vs Lioli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=56\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=877\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=194\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=74\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=136\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=430\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=623\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=580\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=707\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=586\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=473\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A : Como vs Cremonese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=56\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Cesena vs Palermo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=55\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Mantova vs Frosinone",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=59\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Avellino vs Virtus Entella",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=68\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Südtirol vs Reggiana",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=69\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Venezia vs Spezia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=76\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Venezia vs Spezia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=756\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie B : Venezia vs Spezia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=144\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Portugal - Segunda liga : Academico Viseu vs Portimonense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=19\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Malaysia - Super League : Negeri Sembilan vs Sabah",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=20\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Sassari Torres vs Ascoli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=208\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Bra vs Nuova Monterosi",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=209\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Livorno vs Campobasso",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=210\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Sambenedettese vs Juventus II",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=154\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Sambenedettese vs Juventus II",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=462\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie C : Ravenna vs Ternana",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=211\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Tanzania Premier League : Tanzania Prisons vs KMC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=26\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-South Africa - DStv Premiership : Golden Arrows vs Orbit College",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=413\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Sweden - Allsvenskan : Elfsborg vs Degerfors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=21\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Turkey - 1. Lig : Erokspor vs Iğdır FK",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=889\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Czech Republic - 1. liga : Bohemians 1905 vs Sigma Olomouc",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1028\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Czech Republic - 1. liga : Baník Ostrava vs Sparta Praha",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1027\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:00-Czech Republic - 1. liga : Slovácko vs Karviná",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1029\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=426\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=7\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=139\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=558\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=195\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1025\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=458\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=72\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=870\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=495\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=886\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=401\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=431\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=811\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=78\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=584\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=798\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=635\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Mainz 05 vs Borussia Dortmund",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=142\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Wolfsburg vs RB Leipzig",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Wolfsburg vs RB Leipzig",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=196\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Wolfsburg vs RB Leipzig",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=428\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Wolfsburg vs RB Leipzig",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=497\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Wolfsburg vs RB Leipzig",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=581\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Heidenheim vs Augsburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : Heidenheim vs Augsburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=197\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=198\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1023\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=496\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=403\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=940\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=633\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=428\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Bundesliga : St. Pauli vs Bayer Leverkusen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=103\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Russia - Premier League : Lokomotiv Moskva vs Rubin Kazan'",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=573\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Russia - Premier League : Lokomotiv Moskva vs Rubin Kazan'",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=941\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Hungary - NB1 : Zalaegerszegi TE vs Kazincbarcika",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=22\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "13:30-Denmark Betinia Liga : Lyngby vs AaB",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=809\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Kazakhstan Premier League : Aktobe vs Kyzyl-Zhar",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Belgium - Pro League : Zulte-Waregem vs Antwerp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=9\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=595\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=10\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=463\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=77\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=592\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=445\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=456\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=107\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=125\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=123\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=134\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=599\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=819\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=432\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=466\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=64\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=93\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=414\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=61\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Crystal Palace vs Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=141\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=86\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=343\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=845\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=593\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=557\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=446\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=457\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=108\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=23\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=429\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=632\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=67\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=434\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=223\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=420\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=92\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Manchester City vs Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=143\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=105\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=448\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=109\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=942\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=637\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=468\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Leeds United vs AFC Bournemouth",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=95\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=106\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=594\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=447\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=110\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=126\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=199\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=24\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=634\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=25\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=467\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=150\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=418\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=572\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=85\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=96\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-England - Premier League : Chelsea vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=140\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Super Lig : Gaziantep FK vs Samsunspor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=63\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Super Lig : Eyüpspor vs Göztepe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=62\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Super Lig : Eyüpspor vs Göztepe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=453\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:00-Croatia - 1. HNL : Rijeka vs Istra 1961",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=779\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=538\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=27\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=276\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1024\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=115\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=427\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=455\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=48\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=116\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=400\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=127\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=137\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=712\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=393\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=375\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=135\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=631\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=810\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=583\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=433\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=475\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=747\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=81\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:15-Spain - La Liga : Atlético Madrid vs Real Madrid",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=415\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Bulgaria - Parva Liga : Cherno More vs Septemvri Sofia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=465\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Portugal - Primeira Liga : Santa Clara vs Tondela",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=49\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Portugal - Primeira Liga : Santa Clara vs Tondela",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=597\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Portugal - Primeira Liga : Moreirense vs Casa Pia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=13\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=386\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=410\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=636\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=571\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=50\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=927\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=12\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=471\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=101\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eredivisie : Ajax vs NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=142\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Germany - 3. Liga : Waldhof Mannheim vs Rot-Weiss Essen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=14\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:30-Netherlands - Eerste Divisie : Vitesse vs Willem II",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=379\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "14:55-Portugal - Campeonato Nacional Feminino : Sporting vs Valadares Gaia FC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=540\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Jordan League : Sama Al Sarhan vs Al Faisaly",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=15\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Malta - Premier League : Hamrun Spartans vs Hibernians",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=16\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Qatar Stars League : Al Sailiya vs Al Arabi",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=781\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Qatar Stars League : Al Sailiya vs Al Arabi",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=578\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Bosnia and Herzegovina - Premijer Liga : Željezničar vs Sarajevo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=579\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Bosnia and Herzegovina - Premijer Liga : Željezničar vs Sarajevo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=942\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Azerbaijan - Premier Liqa : Neftçi vs Karvan",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=11\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Simulcast",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=559\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Blau-Weiß Linz vs Rheindorf Altach",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=17\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Blau-Weiß Linz vs Rheindorf Altach",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=145\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Ried vs Grazer AK",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=18\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Wolfsberger AC vs LASK Linz",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=28\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Austria - Bundesliga : Wolfsberger AC vs LASK Linz",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=638\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=151\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=425\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=372\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=289\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=430\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=94\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-France - Ligue 1 : Lorient vs Monaco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=144\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Greece - Super League : Olympiakos Piraeus vs Levadiakos",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=622\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:00-Czech Republic - 2. liga : Zbrojovka Brno vs Slavia Praha II",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1033\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:05-Kuwait - Premier League : Al Fahaheel vs Al Shabab",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=29\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:15-Italy - Serie B : Monza vs Calcio Padova",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=152\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:15-Italy - Serie B : Monza vs Calcio Padova",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=148\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy Serie A Cup Women | Final : Juventus vs Roma",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=756\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:20-Saudi Arabia - Pro League : Al Riyadh vs NEOM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=153\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:20-Saudi Arabia - Pro League : Al Riyadh vs NEOM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=275\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Sweden - Allsvenskan : Häcken vs Norrköping",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=21\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Poland - II Liga : Sandecja Nowy Sącz vs Unia Skierniewice",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=128\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Slovenia - Prva Liga : Domžale vs Primorje",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=19\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Hungary - NB1 : Diósgyőr vs Debrecen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=265\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Serbia - Super Liga : Javor Ivanjica vs Radnički Niš",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=431\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Pineto vs Rimini",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=209\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Arezzo vs Athletic Carpi",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=154\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Pontedera vs Forlì",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=210\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Perugia vs Pianese",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=208\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Vis Pesaro vs Gubbio",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=211\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:30-Poland - Ekstraklasa : Piast Gliwice vs Nieciecza",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=259\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "15:35-Saudi Arabia - Pro League : Al Najma vs Al Feiha",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=20\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Switzerland - Super League : Lugano vs Grasshopper",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=30\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Switzerland - Super League : Servette vs Winterthur",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=55\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Switzerland - Challenge League : Stade Lausanne-Ouchy vs Vaduz",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=59\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Switzerland - Challenge League : Wil vs Bellinzona",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=68\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Tanzania Premier League : Dodoma Jiji vs Coastal Union",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=26\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Turkey - 1. Lig : Ümranıyespor vs Çorum Belediyespor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=889\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Russia - Premier League : Rostov vs Krasnodar",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=573\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Russia - Premier League : Rostov vs Krasnodar",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=429\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Denmark - Super Liga : SønderjyskE vs København",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=808\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Denmark - Super Liga : SønderjyskE vs København",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=941\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=877\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=910\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=767\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=52\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=74\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=71\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=136\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=398\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=124\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=401\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=643\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=925\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=139\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=584\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=623\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=580\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=703\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=474\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=798\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A : Juventus vs Atalanta",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=56\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Czech Republic - 1. liga : Hradec Králové vs Slovan Liberec",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1027\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Cyprus - First Division : AEL vs Akritas",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=911\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:00-Argentina - Primera Nacional : San Telmo vs Gimnasia Jujuy",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=746\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:15-Belgium - Pro League : Standard Liège vs Club Brugge",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Russia - Premier League : Zenit vs Orenburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=127\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Serbia - Super Liga : OFK Beograd vs Partizan",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=134\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Serbia - Super Liga : OFK Beograd vs Partizan",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=945\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - Segunda Division : Racing Santander vs FC Andorra",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=69\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - Segunda Division : Eibar vs Deportivo La Coruña",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=539\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - Segunda Division : Eibar vs Deportivo La Coruña",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=161\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - Primera División Femenina : Barcelona vs Espanyol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=445\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Israel - Ligat Ha'Al : Hapoel Katamon vs Maccabi Netanya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=143\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Israel - Ligat Ha'Al : Hapoel Tel Aviv vs Hapoel Haifa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=141\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Israel - Ligat Ha'Al : Hapoel Petah Tikva vs Ironi Tiberias",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=146\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Israel - Ligat Ha'Al : Ironi Kiryat Shmona vs Ashdod",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=147\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=9\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=343\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=845\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=38\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=130\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=595\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=446\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=10\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=455\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=463\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=125\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=123\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=135\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=599\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=223\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=432\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=64\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=466\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=81\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=414\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=572\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=61\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-England - Premier League : Nottingham Forest vs Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=140\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=558\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=556\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=35\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1023\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=456\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=72\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=23\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=117\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=403\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=886\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=12\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=633\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=811\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=467\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=586\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Bundesliga : Borussia M'gladbach vs Eintracht Frankfurt",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=101\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=84\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=276\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1025\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=427\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=457\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=48\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=498\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=137\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=375\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=919\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=712\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=85\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=631\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=433\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=706\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=475\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=415\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:30-Spain - La Liga : Mallorca vs Deportivo Alavés",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=93\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Croatia - 1. HNL : Hajduk Split vs Lokomotiva Zagreb",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=779\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Netherlands - Eredivisie : Volendam vs PEC Zwolle",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=888\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Scottish League Cup : Motherwell vs Aberdeen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=550\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Scottish League Cup : Motherwell vs Aberdeen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=799\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Scottish League Cup : Motherwell vs Aberdeen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=571\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Scottish League Cup : Motherwell vs Aberdeen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=581\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "16:45-Scottish League Cup : Motherwell vs Aberdeen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=471\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Israel - Ligat Ha'Al : Maccabi Bnei Raina vs Beitar Jerusalem",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=142\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Qatar Stars League : Qatar SC vs Al Shamal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=782\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Qatar Stars League : Qatar SC vs Al Shamal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=96\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Portugal - Campeonato Nacional Feminino : Rio Ave vs Torreense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=540\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Belarus - Belarus Premier League : ML Rogachev vs Slavia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=76\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=77\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=425\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=372\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1024\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=289\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=428\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=67\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=430\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=25\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=95\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-France - Ligue 1 : Toulouse vs Nantes",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=144\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Portugal - Primeira Liga : Estrela vs AVS",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=49\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Super Lig : Fatih Karagümrük vs Trabzonspor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=62\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Super Lig : Fatih Karagümrük vs Trabzonspor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=138\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Super Lig : Fatih Karagümrük vs Trabzonspor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=97\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Bulgaria - Parva Liga : Lokomotiv Sofia 1929 vs CSKA Sofia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=465\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:00-Canada - Canadian Premier League : Atlético Ottawa vs Cavalry",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=115\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:15-Malta - Premier League : Mosta vs Floriana",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=16\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:20-Kuwait - Premier League : Kazma vs Al Arabi",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=29\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Argentina - Primera División : Aldosivi vs Argentinos Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=387\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Argentina - Primera División : Gimnasia La Plata vs Rosario Central",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=388\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Argentina - Primera División : Gimnasia La Plata vs Rosario Central",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=291\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Greece - Super League : Aris vs Panserraikos",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=638\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Italy Serie B : Bari 1908 vs Sampdoria",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=86\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Romania - Liga I : Petrolul 52 vs Rapid Bucureşti",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=400\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Romania - Liga I : Petrolul 52 vs Rapid Bucureşti",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=583\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "17:30-Jordan League : Al Salt vs Al Wihdat",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=15\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Brazil Paulista, Feminino : AD Taubaté vs Corinthians",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=78\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Hungary - NB1 : Paksi SE vs Puskás",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=265\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-South Africa - DStv Premiership : Mamelodi Sundowns vs Richards Bay",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=413\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-France - Ligue 2 : Saint-Étienne vs Guingamp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=116\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-France - Ligue 2 : Saint-Étienne vs Guingamp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=63\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-France - Ligue 2 : Saint-Étienne vs Guingamp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1026\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-France - Ligue 2 : Saint-Étienne vs Guingamp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=944\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-France - Ligue 2 : Saint-Étienne vs Guingamp",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=94\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Netherlands - Eredivisie : Excelsior vs PSV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=379\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Netherlands - Eredivisie : Excelsior vs PSV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=458\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Netherlands - Eredivisie : Excelsior vs PSV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=429\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Netherlands - Eredivisie : Excelsior vs PSV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=632\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Saudi Arabia - Pro League : Al Fateh vs Al Quadisiya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=153\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Saudi Arabia - Pro League : Al Fateh vs Al Quadisiya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=756\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Saudi Arabia - Pro League : Al Fateh vs Al Quadisiya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=290\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Saudi Arabia - Pro League : Al Fateh vs Al Quadisiya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=521\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Saudi Arabia - Pro League : Al Fateh vs Al Quadisiya",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=643\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:00-Austria - 2. Liga : Austria Wien II vs Amstetten",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=158\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:15-Slovenia - Prva Liga : Celje vs Maribor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:15-Poland - Ekstraklasa Cracovia Kraków vs Górnik Zabrze",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=259\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Switzerland - Super League : Zürich vs St. Gallen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=30\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Switzerland - Super League : Zürich vs St. Gallen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=941\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Switzerland - Super League : Zürich vs St. Gallen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=453\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Slovakia - Niké liga : FK Košice vs Tatran Prešov",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=162\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=556\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1025\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=8\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=495\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=942\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=637\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=468\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:30-Bundesliga 2 : Bochum vs Fortuna Düsseldorf",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=102\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=154\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=870\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=910\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=74\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=72\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=401\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=124\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=127\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=136\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=393\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=135\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=623\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=808\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=584\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=432\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=747\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=474\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=56\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Italy - Serie A : Cagliari vs Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=140\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "18:45-Belgium - Pro League : Union Saint-Gilloise vs Westerlo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Serbia - Super Liga : Vojvodina vs Železničar Pančevo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=431\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Primera División Femenina : Leões Porto Salvo vs Nun'álvares",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=540\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Las Palmas vs Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=539\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Las Palmas vs Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=163\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Las Palmas vs Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=581\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Las Palmas vs Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=707\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Las Palmas vs Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=95\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Uruguay - Primera Division : Liverpool vs Boston River",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=391\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=9\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=343\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=845\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=38\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=130\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=10\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=595\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=445\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=455\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=463\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=134\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=125\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=123\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=599\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=580\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=64\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=466\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=81\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=149\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=414\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=572\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=92\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=61\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-England - Premier League : Tottenham Hotspur vs Wolverhampton Wanderers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=141\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=538\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=276\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1024\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=427\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=456\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=48\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=117\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=375\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=137\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=712\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=398\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=85\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=402\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=139\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=433\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=810\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=631\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=703\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=475\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=415\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=585\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=93\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Spain - La Liga : Villarreal vs Athletic Club",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=142\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Brazil - Brasileirão : Fortaleza vs Sport Recife",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=88\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Colombia - Primera A : Deportivo Pereira vs Unión Magdalena",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=392\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-France - Première Ligue : Olympique Lyonnais vs PSG",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=464\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-France - Première Ligue : Olympique Lyonnais vs PSG",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1021\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:00-Netherlands - Eredivisie : Heracles vs Sparta Rotterdam",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=386\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=105\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=425\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=372\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1023\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=289\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=428\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=67\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=24\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=434\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=467\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:05-France - Ligue 1 : PSG vs Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=146\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=49\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=597\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=571\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=494\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=383\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=430\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=471\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=82\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Portugal - Primeira Liga : Estoril vs Sporting CP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=140\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:30-Argentina - Primera Nacional : Defensores de Belgrano vs Central Norte",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=746\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19:45-Argentina - Primera División : San Lorenzo vs Godoy Cruz",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=387\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Japan U20 vs Egypt U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=756\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Japan U20 vs Egypt U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=131\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Japan U20 vs Egypt U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Japan U20 vs Egypt U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=578\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Korea Republic U20 vs Ukraine U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=115\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Korea Republic U20 vs Ukraine U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=27\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-FIFA U-20 World Cup : Korea Republic U20 vs Ukraine U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=96\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-Peru - Primera Division : Comerciantes Unidos vs Melgar",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=11\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20:00-Peru - Primera Division : Comerciantes Unidos vs Melgar",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=643\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "21:10-Colombia - Primera A : Alianza vs Llaneros",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=392\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "21:30-Brazil - Brasileirão : Vasco da Gama vs Cruzeiro",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=540\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "21:30-Brazil - Brasileirão : Vasco da Gama vs Cruzeiro",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=138\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "21:30-Brazil - Brasileirão : Vasco da Gama vs Cruzeiro",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=432\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "21:30-Brazil - Brasileirão : Juventude vs Internacional",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=88\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=388\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=571\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=521\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=74\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=433\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=134\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=81\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Argentina - Primera División : Defensa y Justicia vs Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=143\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "22:00-Uruguay - Primera Division : Cerro Largo vs Peñarol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=391\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-USL Championship : Pittsburgh Riverhounds vs Las Vegas Lights",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=910\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=758\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=845\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=115\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=840\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=529\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=128\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=127\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=136\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=91\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Chile U20 vs New Zealand U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=578\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Paraguay U20 vs Panama U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=756\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Paraguay U20 vs Panama U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=114\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Paraguay U20 vs Panama U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=131\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Paraguay U20 vs Panama U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=90\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-FIFA U-20 World Cup : Paraguay U20 vs Panama U20",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=92\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-Liga MX : Atlas vs Necaxa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=66\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-Liga MX : Atlas vs Necaxa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=132\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-Peru - Primera Division : Universitario vs Cusco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:00-Peru - Primera Division : Universitario vs Cusco",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=11\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:20-Colombia - Primera A : Deportes Tolima vs Medellín",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=392\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:30-NWSL : Racing Louisville FC vs Angel City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=325\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "23:30-NWSL : Racing Louisville FC vs Angel City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=386\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:00-Brazil - Brasileirão : Atlético Mineiro vs Mirassol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=78\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:00-Brazil - Brasileirão : Atlético Mineiro vs Mirassol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=88\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:00-Brazil - Brasileirão : Atlético Mineiro vs Mirassol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=571\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:00-Brazil - Brasileirão : Atlético Mineiro vs Mirassol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=138\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:00-Argentina - Primera Nacional : Deportivo Morón vs Club Atlético Mitre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=746\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "00:15-Argentina - Primera División : Talleres Córdoba vs Sarmiento",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=388\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "01:00-Liga MX : Monterrey vs Santos Laguna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=935\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "01:00-Liga MX : Monterrey vs Santos Laguna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=66\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "01:00-Liga MX : Monterrey vs Santos Laguna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=132\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "01:30-Colombia - Primera A : Atlético Nacional vs Millonarios",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=392\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "02:00-NWSL : Bay FC vs Utah Royals",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=325\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "02:00-USL Championship : Phoenix Rising vs Oakland Roots",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=910\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "02:00-Costa Rica - Primera Division : Herediano vs Guadalupe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "02:00-USL Championship Soccer : Charleston Battery vs Orange County SC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=902\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "03:05-Liga MX : América vs Pumas UNAM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=935\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "03:05-Liga MX : América vs Pumas UNAM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=308\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "03:05-Liga MX : América vs Pumas UNAM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=66\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "03:05-Liga MX : América vs Pumas UNAM",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://ava.karmakurama.com/?id=132\",\"type\":\"embed\"}"
+  }
+]
