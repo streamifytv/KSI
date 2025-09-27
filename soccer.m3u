@@ -2,127 +2,307 @@
   {
     "name": "LATINOAMERICA-ESPN",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn\",\"type\":\"embed\"}"
   },
   {
     "name": "LATINOAMERICA-ESPN 2",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2\",\"type\":\"embed\"}"
   },
   {
     "name": "LATINOAMERICA-ESPN 3",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 4",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 5",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn5\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 6",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ESPN 7",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn7\",\"type\":\"embed\"}"
   },
   {
     "name": "LATINOAMERICA-DSports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/DSports_logo.svg/512px-DSports_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports\",\"type\":\"embed\"}"
   },
   {
-    "name": "LATINOAMERICA-GOLTV",
+    "name": "LATINOAMERICA-DSports 2",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/GolTV_logo.svg/512px-GolTV_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=goltv\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-DSports Plus",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsportsplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-VTV Plus",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=vtvplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "LATINOAMERICA-ECDF LigaPro (eventos)",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro\",\"type\":\"embed\"}"
   },
   {
     "name": "ARGENTINA-Fox Sports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fox_Sports_logo.svg/512px-Fox_Sports_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Fox Sports 2",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Fox Sports 3",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3\",\"type\":\"embed\"}"
   },
   {
     "name": "ARGENTINA-TNT Sports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_logo.svg/512px-TNT_Sports_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tntsports\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-ESPN Premium",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnpremium\",\"type\":\"embed\"}"
   },
   {
     "name": "ARGENTINA-TyC Sports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycsports\",\"type\":\"embed\"}"
   },
   {
-    "name": "PERÚ-GOLPERU",
+    "name": "ARGENTINA-TyC Sports Internacional (USA)",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GOLPERU_logo.svg/512px-GOLPERU_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=golperu\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycinternacional\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ARGENTINA-Telefe",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telefe\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "PERÚ-Liga1 MAX",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=liga1max\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "COLOMBIA-Win Sports Plus",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsportsplus\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "COLOMBIA-Win Sports plus (2)",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports2\",\"type\":\"embed\"}"
   },
   {
     "name": "COLOMBIA-Win Sports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Win_Sports_logo.svg/512px-Win_Sports_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports\",\"type\":\"embed\"}"
   },
   {
-    "name": "MÉXICO-TUDN",
+    "name": "MÉXICO-Fox Sports",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TUDN_logo.svg/512px-TUDN_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tudn_mx\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportsmx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports 2",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports 3",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-Fox Sports Premium",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportspremium\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnmx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 2",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 3",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3mx\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MÉXICO-ESPN 4",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4mx\",\"type\":\"embed\"}"
   },
   {
     "name": "MÉXICO-Azteca 7",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Azteca_7_logo.svg/512px-Azteca_7_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=azteca7\",\"type\":\"embed\"}"
   },
   {
     "name": "MÉXICO-Canal 5",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canal5_logo_2020.svg/512px-Canal5_logo_2020.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=canal5\",\"type\":\"embed\"}"
   },
   {
-    "name": "USA-Fox Deportes",
+    "name": "MÉXICO-TVC Deportes",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fox_Deportes_logo.svg/512px-Fox_Deportes_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxdeportes\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tvc_deportes\",\"type\":\"embed\"}"
   },
   {
     "name": "USA-ESPN Deportes",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espndeportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-BeIN Sports Español",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsportes\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-BeIN Sports Xtra Español",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "USA-USAnetwork",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=usanetwork\",\"type\":\"embed\"}"
   },
   {
     "name": "USA-Telemundo",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telemundo_logo.svg/512px-Telemundo_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telemundo\",\"type\":\"embed\"}"
   },
   {
-    "name": "CHILE-TNT Sports Chile",
+    "name": "BRASIL-Premiere 1",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_logo.svg/512px-TNT_Sports_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=eventos13\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere1\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 2",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere2\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 3",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere3\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "BRASIL-Premiere 5",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere5\",\"type\":\"embed\"}"
   },
   {
     "name": "BRASIL-Sportv",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SporTV_logo.svg/512px-SporTV_logo.svg.png",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
     "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv\",\"type\":\"embed\"}"
   },
   {
-    "name": "PORTUGAL-Sport TV 1",
+    "name": "BRASIL-Sportv 2",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sport_TV_logo.svg/512px-Sport_TV_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv1\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv2\",\"type\":\"embed\"}"
   },
   {
-    "name": "ESPAÑA-DAZN 1",
+    "name": "BRASIL-Sportv 3",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DAZN_logo.svg/512px-DAZN_logo.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dazn1\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv3\",\"type\":\"embed\"}"
   },
   {
-    "name": "ESPAÑA-La 1 TVE",
+    "name": "PORTUGAL-Sport TV 6",
     "link": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=la1tve\",\"type\":\"embed\"}"
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv6\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 1 NL",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn1_nl\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 2 NL",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2_nl\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "MUNDO-ESPN 3 NL",
+    "link": "",
+    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
+    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3_nl\",\"type\":\"embed\"}"
   }
 ]
