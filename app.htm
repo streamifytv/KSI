@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+   <script src="https://cdn.tailwindcss.com"></script>
+  <title>Streamify — Download Our App</title>
+  <meta name="description" content="Download Streamify — the best Facebook video downloading application. Available for Android." />
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: '#3B82F6'
+          }
+        }
+      }
+    }
+  </script>
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <style>
+    .glass { background: rgba(255,255,255,0.04); backdrop-filter: blur(6px); }
+    .brand { color: #3B82F6; }
+    html, body { transition: background-color .25s, color .25s; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col p-4 sm:p-6 transition-colors duration-300 bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-neutral-100">
+  <nav class="w-full flex items-center justify-between px-4 sm:px-8 py-4 glass fixed top-0 left-0 right-0 z-50">
+    <div class="flex items-center gap-2">
+      <i class="fa-solid fa-download text-brand text-lg"></i>
+      <span class="font-bold text-lg">Streamify</span>
+    </div>
+
+    <div class="hidden md:flex gap-6">
+      <a href="#features" class="hover:text-brand">Features</a>
+      <a href="#testimonials" class="hover:text-brand">Testimonials</a>
+      <a href="#how" class="hover:text-brand">How It Works</a>
+      <a href="#newsletter" class="hover:text-brand">Updates</a>
+    </div>
+
+    <div class="flex items-center gap-2">
+      <button id="themeToggle" aria-label="Toggle theme" class="relative w-14 h-8 bg-gray-200 rounded-full p-1 transition-colors focus:outline-none" title="Toggle theme">
+        <span id="toggleDot" class="absolute left-1 top-1 w-6 h-6 rounded-full bg-white transform transition-transform duration-300"></span>
+        <i id="lightIcon" class="fa-solid fa-sun absolute left-2 top-2 text-brand transition-opacity duration-300 opacity-100"></i>
+        <i id="darkIcon" class="fa-solid fa-moon absolute right-2 top-2  text-brand transition-opacity duration-300 opacity-0"></i>
+      </button>
+
+      <button id="menuToggle" class="md:hidden p-2"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </nav>
+
+  <div id="mobileMenu" class="hidden md:hidden fixed top-16 left-0 right-0 bg-gray-100 dark:bg-gray-800 shadow-lg z-40">
+    <div class="flex flex-col p-4 gap-4">
+      <a href="#features" class="hover:text-brand">Features</a>
+      <a href="#testimonials" class="hover:text-brand">Testimonials</a>
+      <a href="#how" class="hover:text-brand">How It Works</a>
+      <a href="#newsletter" class="hover:text-brand">Updates</a>
+    </div>
+  </div>
+
+  <main class="w-full max-w-6xl mx-auto text-center mt-24">
+    <header class="mb-12 relative">
+      <div class="flex items-center justify-center gap-3 mb-4">
+        <div class="w-12 h-12 sm:w-14 sm:h-14 rounded-xl bg-white/10 flex items-center justify-center">
+          <i class="fa-solid fa-download text-xl sm:text-2xl text-brand"></i>
+        </div>
+        <h1 class="text-2xl sm:text-3xl font-bold">Streamify <span class="brand">App</span></h1>
+      </div>
+      <p class="text-neutral-500 dark:text-neutral-400 text-sm sm:text-base">The ultimate Facebook video downloader app. Fast, simple, and free.</p>
+    </header>
+
+    <section class="mb-16 px-4 sm:px-6">
+      <div class="glass border border-white/10 rounded-2xl p-6 sm:p-10 shadow-xl">
+        <h2 class="text-xl sm:text-2xl font-bold mb-4">Experience Seamless Facebook Video Downloads</h2>
+        <p class="text-neutral-600 dark:text-neutral-300 max-w-2xl mx-auto mb-6 text-sm sm:text-base">Streamify gives you the power to save your favorite Facebook videos directly to your device with just one click. Enjoy them offline anytime, anywhere.</p>
+        <img src="https://dummyimage.com/600x300/3B82F6/fff&text=App+Preview" alt="App Preview" class="rounded-lg mx-auto shadow-lg max-w-full h-auto" />
+      </div>
+    </section>
+
+    <section class="glass border border-white/10 rounded-2xl p-6 sm:p-8 shadow-lg mx-4 sm:mx-0">
+      <h2 class="text-lg sm:text-xl font-semibold mb-4"><i class="fa-solid fa-mobile-screen-button text-brand mr-2"></i>Download Streamify</h2>
+      <p class="text-neutral-700 dark:text-neutral-300 mb-6 text-sm sm:text-base">Currently available for Android. Windows version is coming soon!</p>
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="#" class="bg-brand text-white px-6 py-3 rounded-lg font-semibold shadow hover:brightness-110 flex items-center justify-center gap-2 text-sm sm:text-base"><i class="fa-brands fa-android"></i> Android</a>
+        <span class="bg-gray-200 text-gray-600 dark:bg-white/10 dark:text-white px-6 py-3 rounded-lg font-semibold shadow flex items-center justify-center gap-2 opacity-50 cursor-not-allowed text-sm sm:text-base"><i class="fa-brands fa-windows"></i> Windows (Coming Soon)</span>
+      </div>
+    </section>
+
+    <section id="features" class="mt-16 px-4 sm:px-6 text-left">
+      <h2 class="text-lg sm:text-xl font-semibold mb-6 text-center"><i class="fa-solid fa-star text-brand mr-2"></i>Why Choose Streamify?</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div class="bg-gray-200 dark:bg-white/10 p-6 rounded-lg shadow flex flex-col items-center text-center">
+          <i class="fa-solid fa-bolt text-2xl sm:text-3xl text-brand mb-2"></i>
+          <h3 class="font-bold mb-2">Fast & Secure</h3>
+          <p class="text-sm text-neutral-600 dark:text-neutral-400">Lightning quick downloads with secure technology.</p>
+        </div>
+        <div class="bg-gray-200 dark:bg-white/10 p-6 rounded-lg shadow flex flex-col items-center text-center">
+          <i class="fa-solid fa-video text-2xl sm:text-3xl text-brand mb-2"></i>
+          <h3 class="font-bold mb-2">HD Quality</h3>
+          <p class="text-sm text-neutral-600 dark:text-neutral-400">Save videos in crystal clear HD without compromise.</p>
+        </div>
+        <div class="bg-gray-200 dark:bg-white/10 p-6 rounded-lg shadow flex flex-col items-center text-center">
+          <i class="fa-solid fa-thumbs-up text-2xl sm:text-3xl text-brand mb-2"></i>
+          <h3 class="font-bold mb-2">User-Friendly</h3>
+          <p class="text-sm text-neutral-600 dark:text-neutral-400">An intuitive interface designed for everyone.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="testimonials" class="mt-16 px-4 sm:px-6 text-center">
+      <h2 class="text-lg sm:text-xl font-semibold mb-6"><i class="fa-solid fa-comment-dots text-brand mr-2"></i>What Our Users Say</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-gray-200 dark:bg-white/10 p-6 rounded-lg shadow">
+          <p class="italic mb-3 text-sm sm:text-base">“Streamify is the best app for saving Facebook videos. Super fast and reliable!”</p>
+          <div class="flex items-center gap-2 text-sm">
+            <i class="fa-solid fa-user-circle text-brand"></i> <span>- Ali Khan</span>
+          </div>
+        </div>
+        <div class="bg-gray-200 dark:bg-white/10 p-6 rounded-lg shadow">
+          <p class="italic mb-3 text-sm sm:text-base">“Love how simple it is! I can watch videos offline anytime.”</p>
+          <div class="flex items-center gap-2 text-sm">
+            <i class="fa-solid fa-user-circle text-brand"></i> <span>- Sarah Ahmed</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="how" class="mt-16 px-4 sm:px-6 text-left">
+      <h2 class="text-lg sm:text-xl font-semibold mb-4 text-center"><i class="fa-solid fa-circle-question text-brand mr-2"></i>How It Works</h2>
+      <p class="text-neutral-600 dark:text-neutral-400 text-sm sm:text-base leading-relaxed text-center max-w-2xl mx-auto">Streamify lets you paste a Facebook video link into the app and instantly download it to your device. With a simple, user-friendly interface, downloading your favorite videos has never been easier.</p>
+    </section>
+
+    <section id="legal" class="mt-16 px-4 sm:px-6 text-left">
+      <h2 class="text-lg sm:text-xl font-semibold mb-2 text-center"><i class="fa-solid fa-scale-balanced text-brand mr-2"></i>Legal & Privacy</h2>
+      <p class="text-xs sm:text-sm text-neutral-500 text-center max-w-2xl mx-auto">Please download only the content you own rights to or have explicit permission to save. Respect Facebook's Terms of Service and copyright rules. Streamify does not claim ownership of downloaded content.</p>
+    </section>
+
+    <section id="newsletter" class="mt-16 px-4 sm:px-6 text-center">
+      <h2 class="text-lg sm:text-xl font-semibold mb-4"><i class="fa-solid fa-envelope text-brand mr-2"></i>Stay Updated</h2>
+      <p class="text-neutral-600 dark:text-neutral-400 mb-4 text-sm sm:text-base">Be the first to know when the Windows version launches.</p>
+      <form class="flex flex-col sm:flex-row gap-3 justify-center max-w-md mx-auto">
+        <input type="email" placeholder="Enter your email" class="px-4 py-2 rounded-lg border dark:border-white/10 focus:outline-none flex-1 text-sm sm:text-base" required />
+        <button type="submit" class="bg-brand text-white px-6 py-2 rounded-lg shadow hover:brightness-110 text-sm sm:text-base"><i class="fa-solid fa-bell mr-2"></i>Notify Me</button>
+      </form>
+    </section>
+
+    <footer class="mt-16 text-center text-xs sm:text-sm text-neutral-500 px-4 pb-6">
+      <p><i class="fa-regular fa-copyright"></i> 2025 Streamify. Built with ❤️ for easy video downloads.</p>
+      <div class="flex justify-center gap-4 mt-4 text-lg">
+        <a href="#" class="hover:text-brand"><i class="fa-brands fa-facebook"></i></a>
+        <a href="#" class="hover:text-brand"><i class="fa-brands fa-twitter"></i></a>
+        <a href="#" class="hover:text-brand"><i class="fa-brands fa-instagram"></i></a>
+      </div>
+    </footer>
+  </main>
+  
+  <script>
+    const themeToggle = document.getElementById('themeToggle');
+    const toggleDot = document.getElementById('toggleDot');
+    // Get both icon elements
+    const lightIcon = document.getElementById('lightIcon');
+    const darkIcon = document.getElementById('darkIcon');
+    const menuToggle = document.getElementById('menuToggle');
+    const mobileMenu = document.getElementById('mobileMenu');
+
+    // initialize theme properly (localStorage -> prefers-color-scheme -> default light)
+    function applyTheme(isDark) {
+      if (isDark) {
+        document.documentElement.classList.add('dark');
+        themeToggle.classList.replace('bg-gray-200', 'bg-white/10'); // Change toggle background
+        toggleDot.classList.add('translate-x-6');
+        toggleDot.classList.replace('bg-white', 'bg-gray-800'); // Dot background change
+        lightIcon.classList.remove('opacity-100');
+        lightIcon.classList.add('opacity-0');
+        darkIcon.classList.remove('opacity-0');
+        darkIcon.classList.add('opacity-100');
+        localStorage.setItem('theme', 'dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+        themeToggle.classList.replace('bg-white/10', 'bg-gray-200'); // Change toggle background
+        toggleDot.classList.remove('translate-x-6');
+        toggleDot.classList.replace('bg-gray-800', 'bg-white'); // Dot background change
+        lightIcon.classList.remove('opacity-0');
+        lightIcon.classList.add('opacity-100');
+        darkIcon.classList.remove('opacity-100');
+        darkIcon.classList.add('opacity-0');
+        localStorage.setItem('theme', 'light');
+      }
+    }
+
+    (function initTheme(){
+      const saved = localStorage.getItem('theme');
+      if (saved === 'dark') {
+        applyTheme(true);
+      } else if (saved === 'light') {
+        applyTheme(false);
+      } else {
+        const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        applyTheme(prefersDark);
+      }
+    })();
+
+    themeToggle.addEventListener('click', () => {
+      const nowDark = document.documentElement.classList.contains('dark');
+      applyTheme(!nowDark);
+    });
+
+    menuToggle.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+
+    // close mobile menu on link click (improve UX)
+    document.querySelectorAll('#mobileMenu a').forEach(a => a.addEventListener('click', () => mobileMenu.classList.add('hidden')));
+  </script>
+</body>
+</html>
