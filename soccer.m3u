@@ -1,308 +1,1958 @@
 [
   {
-    "name": "LATINOAMERICA-ESPN",
+    "name": "08:30-Slovakia - 2. Futbalová Liga : Petržalka akadémia vs Inter Bratislava",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=RTVS Sport Slovakia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=1|referer=https://fnjplay.xyz/\",\"api\":\"premium1,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 2",
+    "name": "09:00-U17 Bundesliga : Borussia Dortmund U17 vs Bochum U17",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Bundesliga 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=558|referer=https://fnjplay.xyz/\",\"api\":\"premium558,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 3",
+    "name": "10:00-Spain - Primera División Femenina : Atletico Madrid vs Barcelona",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN1 Spain",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=445|referer=https://fnjplay.xyz/\",\"api\":\"premium445,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 4",
+    "name": "10:00-Spain - Primera División Femenina : UD Tenerife vs Eibar",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN3 Spain",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=447|referer=https://fnjplay.xyz/\",\"api\":\"premium447,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 5",
+    "name": "10:00-Spain - Primera División Femenina : Levante vs Sevilla",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn5\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN4 Spain",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=448|referer=https://fnjplay.xyz/\",\"api\":\"premium448,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 6",
+    "name": "10:00-Portugal - Campeonato Nacional Feminino : Valadares Gaia vs SL Benfica",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn6\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Canal 11 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=540|referer=https://fnjplay.xyz/\",\"api\":\"premium540,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ESPN 7",
+    "name": "10:15-Netherlands - Eredivisie Women : AZ vs Feyenoord",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn7\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN 1 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=379|referer=https://fnjplay.xyz/\",\"api\":\"premium379,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-DSports",
+    "name": "10:30-Legends Cup : Feyenoord Legends vs Celtic Legends",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 1 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=393|referer=https://fnjplay.xyz/\",\"api\":\"premium393,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-DSports 2",
+    "name": "10:30-Italy - Serie A (women) : Milan vs Roma",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsports2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN Zona IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=877|referer=https://fnjplay.xyz/\",\"api\":\"premium877,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-DSports Plus",
+    "name": "10:30-Italy - Serie A (women) : Milan vs Roma",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=dsportsplus\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Soccer Plus",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=756|referer=https://fnjplay.xyz/\",\"api\":\"premium756,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-VTV Plus",
+    "name": "10:30-Italy - Serie A (women) : Milan vs Roma",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=vtvplus\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN 1 DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=426|referer=https://fnjplay.xyz/\",\"api\":\"premium426,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "LATINOAMERICA-ECDF LigaPro (eventos)",
+    "name": "10:30-Italy - Serie C : Monopoli vs Salernitana",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 251 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=2|referer=https://fnjplay.xyz/\",\"api\":\"premium2,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-Fox Sports",
+    "name": "10:30-Italy - Serie C : Monopoli vs Salernitana",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Calcio IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=870|referer=https://fnjplay.xyz/\",\"api\":\"premium870,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-Fox Sports 2",
+    "name": "10:30-Italy - Serie C : Vis Pesaro vs Sassari Torres",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 257 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=26|referer=https://fnjplay.xyz/\",\"api\":\"premium26,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-Fox Sports 3",
+    "name": "10:45-Austria Amateur Bundesliga Women : SK Sturm Graz vs. SPG SCR Altach / FFC Vorderland",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ORF Sport Plus",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=68|referer=https://fnjplay.xyz/\",\"api\":\"premium68,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-TNT Sports",
+    "name": "11:00-England - Women's Super League : Multiview",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tntsports\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports+",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=36|referer=https://fnjplay.xyz/\",\"api\":\"premium36,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-ESPN Premium",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnpremium\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN2 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=45|referer=https://fnjplay.xyz/\",\"api\":\"premium45,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-TyC Sports",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycsports\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 9 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=596|referer=https://fnjplay.xyz/\",\"api\":\"premium596,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-TyC Sports Internacional (USA)",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tycinternacional\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Main Event UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=38|referer=https://fnjplay.xyz/\",\"api\":\"premium38,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "ARGENTINA-Telefe",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telefe\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Showcase UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=682|referer=https://fnjplay.xyz/\",\"api\":\"premium682,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "PER�-Liga1 MAX",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=liga1max\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportsnet One",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=411|referer=https://fnjplay.xyz/\",\"api\":\"premium411,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "COLOMBIA-Win Sports Plus",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsportsplus\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportsnet World",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=410|referer=https://fnjplay.xyz/\",\"api\":\"premium410,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "COLOMBIA-Win Sports plus (2)",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Movistar Liga de Campeones",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=435|referer=https://fnjplay.xyz/\",\"api\":\"premium435,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "COLOMBIA-Win Sports",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=winsports\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports Malaysia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=712|referer=https://fnjplay.xyz/\",\"api\":\"premium712,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Fox Sports",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportsmx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SPORT1+ DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=640|referer=https://fnjplay.xyz/\",\"api\":\"premium640,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Fox Sports 2",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports2mx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub HD Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=453|referer=https://fnjplay.xyz/\",\"api\":\"premium453,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Fox Sports 3",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsports3mx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Laliga",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=415|referer=https://fnjplay.xyz/\",\"api\":\"premium415,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Fox Sports Premium",
+    "name": "11:00-England - Women's Super League : Chelsea FC vs Tottenham Hotspur",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=foxsportspremium\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 4 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=143|referer=https://fnjplay.xyz/\",\"api\":\"premium143,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-ESPN",
+    "name": "11:00-England - Women's Super League : London City Lionesses vs West Ham United",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espnmx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Mix UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=449|referer=https://fnjplay.xyz/\",\"api\":\"premium449,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-ESPN 2",
+    "name": "11:00-England - Women's Super League : London City Lionesses vs West Ham United",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2mx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 7 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=594|referer=https://fnjplay.xyz/\",\"api\":\"premium594,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-ESPN 3",
+    "name": "11:00-England - Women's Super League : Aston Villa vs Leicester City WFC",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3mx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Football UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=35|referer=https://fnjplay.xyz/\",\"api\":\"premium35,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-ESPN 4",
+    "name": "11:00-England - Women's Super League : Aston Villa vs Leicester City WFC",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn4mx\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports 2 Malaysia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=713|referer=https://fnjplay.xyz/\",\"api\":\"premium713,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Azteca 7",
+    "name": "11:00-England - Women's Super League : Aston Villa vs Leicester City WFC",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=azteca7\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SportKlub 6 Slovenia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=110|referer=https://fnjplay.xyz/\",\"api\":\"premium110,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-Canal 5",
+    "name": "11:00-England - Women's Super League : Everton vs Manchester United",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=canal5\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Premier League UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=130|referer=https://fnjplay.xyz/\",\"api\":\"premium130,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "M�XICO-TVC Deportes",
+    "name": "12:00-Frauen-Bundesliga : Freiburg vs Eintracht Frankfurt",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=tvc_deportes\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Magenta Sport 307",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=3|referer=https://fnjplay.xyz/\",\"api\":\"premium3,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "USA-ESPN Deportes",
+    "name": "12:00-Frauen-Bundesliga : Freiburg vs Eintracht Frankfurt",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espndeportes\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN 2 DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=427|referer=https://fnjplay.xyz/\",\"api\":\"premium427,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "USA-BeIN Sports Espa�ol",
+    "name": "12:00-Spain - Segunda Division : Albacete vs Ceuta",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsportes\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=539|referer=https://fnjplay.xyz/\",\"api\":\"premium539,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "USA-BeIN Sports Xtra Espa�ol",
+    "name": "12:00-Russian Womens Cup : CSKA Moscow vs Zenit St Petersburg",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match Premier Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=573|referer=https://fnjplay.xyz/\",\"api\":\"premium573,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "USA-USAnetwork",
+    "name": "12:00-Russian Womens Cup : CSKA Moscow vs Zenit St Petersburg",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=usanetwork\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MATCH TV Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=127|referer=https://fnjplay.xyz/\",\"api\":\"premium127,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "USA-Telemundo",
+    "name": "12:30-Netherlands - Eredivisie Women : Twente vs Utrecht",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=telemundo\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN 2 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=386|referer=https://fnjplay.xyz/\",\"api\":\"premium386,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Premiere 1",
+    "name": "12:30-Italy - Serie C : Cittadella vs Triestina",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere1\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 253 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=4|referer=https://fnjplay.xyz/\",\"api\":\"premium4,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Premiere 2",
+    "name": "12:30-Italy - Serie C : Cavese vs Trapani 1905",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 254 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=109|referer=https://fnjplay.xyz/\",\"api\":\"premium109,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Premiere 3",
+    "name": "12:30-Italy - Serie C : Cosenza vs Atalanta II",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere3\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 251 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=2|referer=https://fnjplay.xyz/\",\"api\":\"premium2,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Premiere 5",
+    "name": "12:30-Italy - Serie C : Cosenza vs Atalanta II",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=premiere5\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Calcio IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=870|referer=https://fnjplay.xyz/\",\"api\":\"premium870,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Sportv",
+    "name": "12:30-Italy - Serie C : Siracusa vs Sorrento",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 256 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=14|referer=https://fnjplay.xyz/\",\"api\":\"premium14,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Sportv 2",
+    "name": "12:30-Italy - Serie C : Virtus Casarano vs Audace Cerignola",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv2\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 252 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=7|referer=https://fnjplay.xyz/\",\"api\":\"premium7,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "BRASIL-Sportv 3",
+    "name": "12:30-Italy - Serie C : Virtus Casarano vs Audace Cerignola",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sportv3\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Arena IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=462|referer=https://fnjplay.xyz/\",\"api\":\"premium462,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "PORTUGAL-Sport TV 6",
+    "name": "12:30-Italy - Serie C : Potenza Calcio vs Latina",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=sporttv6\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 255 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=25|referer=https://fnjplay.xyz/\",\"api\":\"premium25,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "MUNDO-ESPN 1 NL",
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn1_nl\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Sports 2 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=758|referer=https://fnjplay.xyz/\",\"api\":\"premium758,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "MUNDO-ESPN 2 NL",
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn2_nl\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 5 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=592|referer=https://fnjplay.xyz/\",\"api\":\"premium592,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   },
   {
-    "name": "MUNDO-ESPN 3 NL",
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
     "link": "",
-    "logo": "https://static.vecteezy.com/system/resources/previews/008/280/239/large_2x/football-logo-badge-with-a-soccer-ball-illustration-sport-team-logo-template-vector.jpg",
-    "api": "{\"url\":\"\",\"api\":\"https://la14hd.com/vivo/canales.php?stream=espn3_nl\",\"type\":\"embed\"}"
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV1 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=49|referer=https://fnjplay.xyz/\",\"api\":\"premium49,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport 2 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=50|referer=https://fnjplay.xyz/\",\"api\":\"premium50,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 1 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=393|referer=https://fnjplay.xyz/\",\"api\":\"premium393,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 5 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=383|referer=https://fnjplay.xyz/\",\"api\":\"premium383,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN 1 DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=426|referer=https://fnjplay.xyz/\",\"api\":\"premium426,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=400|referer=https://fnjplay.xyz/\",\"api\":\"premium400,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=583|referer=https://fnjplay.xyz/\",\"api\":\"premium583,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 2 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=135|referer=https://fnjplay.xyz/\",\"api\":\"premium135,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports Start Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=637|referer=https://fnjplay.xyz/\",\"api\":\"premium637,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 2 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=102|referer=https://fnjplay.xyz/\",\"api\":\"premium102,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Sport X Denmark",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=808|referer=https://fnjplay.xyz/\",\"api\":\"premium808,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SporTV BR",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=78|referer=https://fnjplay.xyz/\",\"api\":\"premium78,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport 3 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=467|referer=https://fnjplay.xyz/\",\"api\":\"premium467,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN3 Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=798|referer=https://fnjplay.xyz/\",\"api\":\"premium798,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Premier League",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=414|referer=https://fnjplay.xyz/\",\"api\":\"premium414,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 2 Slovenia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=27|referer=https://fnjplay.xyz/\",\"api\":\"premium27,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=91|referer=https://fnjplay.xyz/\",\"api\":\"premium91,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA English 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=61|referer=https://fnjplay.xyz/\",\"api\":\"premium61,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : San Marino vs Cyprus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 1 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=140|referer=https://fnjplay.xyz/\",\"api\":\"premium140,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : Zambia vs Niger",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 4 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=104|referer=https://fnjplay.xyz/\",\"api\":\"premium104,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : Zambia vs Niger",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 3 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=139|referer=https://fnjplay.xyz/\",\"api\":\"premium139,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : Zambia vs Niger",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport PSL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=413|referer=https://fnjplay.xyz/\",\"api\":\"premium413,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : Zambia vs Niger",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SportKlub 4 Slovenia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=151|referer=https://fnjplay.xyz/\",\"api\":\"premium151,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-World Cup Qualifying : Zambia vs Niger",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 4 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=143|referer=https://fnjplay.xyz/\",\"api\":\"premium143,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-Italy - Serie A (women) : Ternana vs Napoli",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN Italia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=55|referer=https://fnjplay.xyz/\",\"api\":\"premium55,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:00-Croatia - Prva NL : Dugopolje vs Sesvete",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MAX Sport 1 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=779|referer=https://fnjplay.xyz/\",\"api\":\"premium779,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BBC Two UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=357|referer=https://fnjplay.xyz/\",\"api\":\"premium357,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 7 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=594|referer=https://fnjplay.xyz/\",\"api\":\"premium594,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportsnet One",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=411|referer=https://fnjplay.xyz/\",\"api\":\"premium411,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SPORT1+ DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=640|referer=https://fnjplay.xyz/\",\"api\":\"premium640,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 2 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=398|referer=https://fnjplay.xyz/\",\"api\":\"premium398,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=81|referer=https://fnjplay.xyz/\",\"api\":\"premium81,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Laliga",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=415|referer=https://fnjplay.xyz/\",\"api\":\"premium415,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-England - Women's Super League : Arsenal vs Brighton & Hove Albion",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SportKlub 6 Slovenia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=110|referer=https://fnjplay.xyz/\",\"api\":\"premium110,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Liga Promises : LaLiga Futures: Finals",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPNU USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=316|referer=https://fnjplay.xyz/\",\"api\":\"premium316,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Liga Promises : LaLiga Futures: Finals",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=M+ LALIGA TV",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=84|referer=https://fnjplay.xyz/\",\"api\":\"premium84,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Liga Promises : LaLiga Futures: Finals",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=#Vamos ES",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=521|referer=https://fnjplay.xyz/\",\"api\":\"premium521,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Liga Promises : LaLiga Futures: Finals",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Deportes",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=375|referer=https://fnjplay.xyz/\",\"api\":\"premium375,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Uruguay - Primera Division : Torque vs Wanderers",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=VTV+ Uruguay",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=391|referer=https://fnjplay.xyz/\",\"api\":\"premium391,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "13:30-Uruguay - Primera Division : Torque vs Wanderers",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=GOLTV USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=597|referer=https://fnjplay.xyz/\",\"api\":\"premium597,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:00-Frauen-Bundesliga : Hoffenheim vs Bayer Leverkusen",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Magenta Sport 308",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=1|referer=https://fnjplay.xyz/\",\"api\":\"premium1,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:00-Frauen-Bundesliga : Hoffenheim vs Bayer Leverkusen",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN 2 DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=427|referer=https://fnjplay.xyz/\",\"api\":\"premium427,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:00-Liga BPI Women : Torreense W vs Braga W",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Canal 11 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=540|referer=https://fnjplay.xyz/\",\"api\":\"premium540,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Eibar vs CD Castellon",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion 2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=5|referer=https://fnjplay.xyz/\",\"api\":\"premium5,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=539|referer=https://fnjplay.xyz/\",\"api\":\"premium539,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN Eleven 2 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=456|referer=https://fnjplay.xyz/\",\"api\":\"premium456,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN SPORTS Australia 3",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=493|referer=https://fnjplay.xyz/\",\"api\":\"premium493,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MAX 5 France",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=495|referer=https://fnjplay.xyz/\",\"api\":\"premium495,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports Malaysia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=712|referer=https://fnjplay.xyz/\",\"api\":\"premium712,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 4 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=403|referer=https://fnjplay.xyz/\",\"api\":\"premium403,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match! Football 2 Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=137|referer=https://fnjplay.xyz/\",\"api\":\"premium137,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Sport Denmark",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=810|referer=https://fnjplay.xyz/\",\"api\":\"premium810,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 2 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=433|referer=https://fnjplay.xyz/\",\"api\":\"premium433,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV4 Sportkanalen",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=707|referer=https://fnjplay.xyz/\",\"api\":\"premium707,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MAX Sport 4 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=475|referer=https://fnjplay.xyz/\",\"api\":\"premium475,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "14:15-Spain - Segunda Division : Sporting Gijón vs Racing Santander",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 5",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=95|referer=https://fnjplay.xyz/\",\"api\":\"premium95,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:00-Spain - Primera División Femenina : Athletic Club vs Real Madrid",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN1 Spain",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=445|referer=https://fnjplay.xyz/\",\"api\":\"premium445,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:00-Portugal - Liga Revelação : Sporting CP U23 vs Torreense U23",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Canal 11 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=540|referer=https://fnjplay.xyz/\",\"api\":\"premium540,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:00-Portugal - Liga 3 : Atlético CP vs 1º Dezembro",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Canal 11 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=540|referer=https://fnjplay.xyz/\",\"api\":\"premium540,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:00-Norway Toppserien Women : Valerenga Oslo vs. SK Brann",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Norway",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=152|referer=https://fnjplay.xyz/\",\"api\":\"premium152,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:10-Scotland - SWPL 1 : Hibernian LFC vs Rangers LFC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BBC Alba",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=6|referer=https://fnjplay.xyz/\",\"api\":\"premium6,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : AlbinoLeffe vs Lecco",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 253 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=4|referer=https://fnjplay.xyz/\",\"api\":\"premium4,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 254 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=109|referer=https://fnjplay.xyz/\",\"api\":\"premium109,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Ascoli vs Pontedera",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 252 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=7|referer=https://fnjplay.xyz/\",\"api\":\"premium7,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:30-Italy - Serie C : Benevento vs Team Altamura",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 251 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=2|referer=https://fnjplay.xyz/\",\"api\":\"premium2,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Premier League UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=130|referer=https://fnjplay.xyz/\",\"api\":\"premium130,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sports Main Event UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=38|referer=https://fnjplay.xyz/\",\"api\":\"premium38,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 7 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=594|referer=https://fnjplay.xyz/\",\"api\":\"premium594,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportsnet World",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=410|referer=https://fnjplay.xyz/\",\"api\":\"premium410,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportsnet One",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=411|referer=https://fnjplay.xyz/\",\"api\":\"premium411,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SPORT1+ DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=640|referer=https://fnjplay.xyz/\",\"api\":\"premium640,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN4 Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=85|referer=https://fnjplay.xyz/\",\"api\":\"premium85,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Deportes",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=375|referer=https://fnjplay.xyz/\",\"api\":\"premium375,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN2 Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=150|referer=https://fnjplay.xyz/\",\"api\":\"premium150,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "15:45-England - Women's Super League : Liverpool vs Manchester City",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Laliga",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=415|referer=https://fnjplay.xyz/\",\"api\":\"premium415,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Sports 2 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=758|referer=https://fnjplay.xyz/\",\"api\":\"premium758,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BBC Two UK",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=357|referer=https://fnjplay.xyz/\",\"api\":\"premium357,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BBC Scotland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=8|referer=https://fnjplay.xyz/\",\"api\":\"premium8,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Belarus 5",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=9|referer=https://fnjplay.xyz/\",\"api\":\"premium9,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 5 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=592|referer=https://fnjplay.xyz/\",\"api\":\"premium592,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV2 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=74|referer=https://fnjplay.xyz/\",\"api\":\"premium74,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport Premium 1 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=10|referer=https://fnjplay.xyz/\",\"api\":\"premium10,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 1 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=393|referer=https://fnjplay.xyz/\",\"api\":\"premium393,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 3 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=402|referer=https://fnjplay.xyz/\",\"api\":\"premium402,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 2 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=584|referer=https://fnjplay.xyz/\",\"api\":\"premium584,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 1 Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=429|referer=https://fnjplay.xyz/\",\"api\":\"premium429,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports 2 Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=632|referer=https://fnjplay.xyz/\",\"api\":\"premium632,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Sport X Denmark",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=808|referer=https://fnjplay.xyz/\",\"api\":\"premium808,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport 2 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=466|referer=https://fnjplay.xyz/\",\"api\":\"premium466,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SporTV BR",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=78|referer=https://fnjplay.xyz/\",\"api\":\"premium78,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Football",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=56|referer=https://fnjplay.xyz/\",\"api\":\"premium56,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=92|referer=https://fnjplay.xyz/\",\"api\":\"premium92,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Scotland vs Belarus",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 1 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=140|referer=https://fnjplay.xyz/\",\"api\":\"premium140,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 4 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=591|referer=https://fnjplay.xyz/\",\"api\":\"premium591,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ČT2 CZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=11|referer=https://fnjplay.xyz/\",\"api\":\"premium11,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV3 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=454|referer=https://fnjplay.xyz/\",\"api\":\"premium454,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 2 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=401|referer=https://fnjplay.xyz/\",\"api\":\"premium401,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 4 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=586|referer=https://fnjplay.xyz/\",\"api\":\"premium586,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports Start Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=637|referer=https://fnjplay.xyz/\",\"api\":\"premium637,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=465|referer=https://fnjplay.xyz/\",\"api\":\"premium465,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Variety 2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=417|referer=https://fnjplay.xyz/\",\"api\":\"premium417,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 4 Slovenia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=151|referer=https://fnjplay.xyz/\",\"api\":\"premium151,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 3",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=93|referer=https://fnjplay.xyz/\",\"api\":\"premium93,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Faroe Islands vs Czech Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 3 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=142|referer=https://fnjplay.xyz/\",\"api\":\"premium142,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Sports 1 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=39|referer=https://fnjplay.xyz/\",\"api\":\"premium39,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=NPO 3 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=12|referer=https://fnjplay.xyz/\",\"api\":\"premium12,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=YLE TV2 Finland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=13|referer=https://fnjplay.xyz/\",\"api\":\"premium13,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 3 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=590|referer=https://fnjplay.xyz/\",\"api\":\"premium590,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV1 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=49|referer=https://fnjplay.xyz/\",\"api\":\"premium49,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport 2 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=50|referer=https://fnjplay.xyz/\",\"api\":\"premium50,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=L'Equipe France",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=645|referer=https://fnjplay.xyz/\",\"api\":\"premium645,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Uno IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=461|referer=https://fnjplay.xyz/\",\"api\":\"premium461,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=400|referer=https://fnjplay.xyz/\",\"api\":\"premium400,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=583|referer=https://fnjplay.xyz/\",\"api\":\"premium583,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports 1 Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=631|referer=https://fnjplay.xyz/\",\"api\":\"premium631,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 2 CZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=153|referer=https://fnjplay.xyz/\",\"api\":\"premium153,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SONY TEN 2 HD",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=886|referer=https://fnjplay.xyz/\",\"api\":\"premium886,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 2 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=135|referer=https://fnjplay.xyz/\",\"api\":\"premium135,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Sport X Denmark",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=808|referer=https://fnjplay.xyz/\",\"api\":\"premium808,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport 3 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=467|referer=https://fnjplay.xyz/\",\"api\":\"premium467,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=81|referer=https://fnjplay.xyz/\",\"api\":\"premium81,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=149|referer=https://fnjplay.xyz/\",\"api\":\"premium149,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 2 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=102|referer=https://fnjplay.xyz/\",\"api\":\"premium102,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Premier League",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=414|referer=https://fnjplay.xyz/\",\"api\":\"premium414,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport MaXimo 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=572|referer=https://fnjplay.xyz/\",\"api\":\"premium572,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=91|referer=https://fnjplay.xyz/\",\"api\":\"premium91,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA English 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=61|referer=https://fnjplay.xyz/\",\"api\":\"premium61,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Netherlands vs Finland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 2 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=141|referer=https://fnjplay.xyz/\",\"api\":\"premium141,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Chad vs Central African Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN+ USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=154|referer=https://fnjplay.xyz/\",\"api\":\"premium154,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-World Cup Qualifying : Chad vs Central African Republic",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 3 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=103|referer=https://fnjplay.xyz/\",\"api\":\"premium103,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A (women) : Parma vs Sassuolo",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN Italia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=59|referer=https://fnjplay.xyz/\",\"api\":\"premium59,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-Italy - Serie A (women) : Parma vs Sassuolo",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=CBS Sports Network USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=308|referer=https://fnjplay.xyz/\",\"api\":\"premium308,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-Uruguay - Primera Division : Juventud vs River Plate",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=VTV+ Uruguay",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=391|referer=https://fnjplay.xyz/\",\"api\":\"premium391,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-Uruguay - Primera Division : Juventud vs River Plate",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=GOLTV USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=597|referer=https://fnjplay.xyz/\",\"api\":\"premium597,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:00-Israel National League : Bnei Yehuda Tel Aviv vs Maccabi Yafo Kabilyo",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 5 Stars Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=147|referer=https://fnjplay.xyz/\",\"api\":\"premium147,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:30-Frauen-Bundesliga : Köln vs Union Berlin",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Magenta Sport 307",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=3|referer=https://fnjplay.xyz/\",\"api\":\"premium3,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:30-Frauen-Bundesliga : Köln vs Union Berlin",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=DAZN 1 DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=426|referer=https://fnjplay.xyz/\",\"api\":\"premium426,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:30-Spain - Segunda Division : Cádiz vs Huesca",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion 2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=5|referer=https://fnjplay.xyz/\",\"api\":\"premium5,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "16:30-Spain - Segunda Division : Burgos vs Real Valladolid",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=539|referer=https://fnjplay.xyz/\",\"api\":\"premium539,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-Friendly : Malta vs Bosnia and Herzegovina",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Soccer Plus",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=756|referer=https://fnjplay.xyz/\",\"api\":\"premium756,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-Friendly : Malta vs Bosnia and Herzegovina",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BHT 1 Bosnia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=1|referer=https://fnjplay.xyz/\",\"api\":\"premium1,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-Friendly : Malta vs Bosnia and Herzegovina",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TVMSport+ Malta",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=14|referer=https://fnjplay.xyz/\",\"api\":\"premium14,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-Friendly : Malta vs Bosnia and Herzegovina",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport Premium 2 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=15|referer=https://fnjplay.xyz/\",\"api\":\"premium15,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-Liga MX Femenil : Guadalajara vs Puebla",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=FOX Deportes",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=643|referer=https://fnjplay.xyz/\",\"api\":\"premium643,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-United States - NCAA Women's Soccer : Michigan vs Indiana",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=BTN USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=397|referer=https://fnjplay.xyz/\",\"api\":\"premium397,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:00-United States - NCAA Women's Soccer : Duke vs North Carolina",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPNU USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=316|referer=https://fnjplay.xyz/\",\"api\":\"premium316,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "17:30-Argentina - Primera División : Aldosivi vs Huracán",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TNT Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=388|referer=https://fnjplay.xyz/\",\"api\":\"premium388,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:00-USL League One : Westchester SC vs Naples",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MSG USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=765|referer=https://fnjplay.xyz/\",\"api\":\"premium765,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:00-Peru - Primera Division : Ayacucho vs ADT",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Liga 1 Max Peru",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=6|referer=https://fnjplay.xyz/\",\"api\":\"premium6,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:00-Argentina - Primera Nacional : Gimnasia Jujuy vs San Miguel",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TyC Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=746|referer=https://fnjplay.xyz/\",\"api\":\"premium746,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:30-Italy - Serie C : Sambenedettese vs Ravenna",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 252 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=7|referer=https://fnjplay.xyz/\",\"api\":\"premium7,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:30-Italy - Serie C : Pro Patria vs Union Brescia",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 251 IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=2|referer=https://fnjplay.xyz/\",\"api\":\"premium2,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:30-Italy - Serie C : Pro Patria vs Union Brescia",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Max IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=460|referer=https://fnjplay.xyz/\",\"api\":\"premium460,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Simulcast",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=L'Equipe France",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=645|referer=https://fnjplay.xyz/\",\"api\":\"premium645,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Simulcast",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 1 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=393|referer=https://fnjplay.xyz/\",\"api\":\"premium393,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ORF 1 Austria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=16|referer=https://fnjplay.xyz/\",\"api\":\"premium16,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Antena 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=17|referer=https://fnjplay.xyz/\",\"api\":\"premium17,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 4 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=591|referer=https://fnjplay.xyz/\",\"api\":\"premium591,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV4 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=289|referer=https://fnjplay.xyz/\",\"api\":\"premium289,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport 2 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=50|referer=https://fnjplay.xyz/\",\"api\":\"premium50,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SONY TEN 1 HD",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=885|referer=https://fnjplay.xyz/\",\"api\":\"premium885,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 2 CZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=153|referer=https://fnjplay.xyz/\",\"api\":\"premium153,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Calcio IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=870|referer=https://fnjplay.xyz/\",\"api\":\"premium870,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 2 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=135|referer=https://fnjplay.xyz/\",\"api\":\"premium135,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports Prime Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=638|referer=https://fnjplay.xyz/\",\"api\":\"premium638,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport 2 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=466|referer=https://fnjplay.xyz/\",\"api\":\"premium466,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Football",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=56|referer=https://fnjplay.xyz/\",\"api\":\"premium56,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 2 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=102|referer=https://fnjplay.xyz/\",\"api\":\"premium102,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 4",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=94|referer=https://fnjplay.xyz/\",\"api\":\"premium94,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Romania vs Austria",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 4 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=143|referer=https://fnjplay.xyz/\",\"api\":\"premium143,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TV2 Denmark",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=817|referer=https://fnjplay.xyz/\",\"api\":\"premium817,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Alpha TV Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=18|referer=https://fnjplay.xyz/\",\"api\":\"premium18,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 2 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=589|referer=https://fnjplay.xyz/\",\"api\":\"premium589,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV1 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=49|referer=https://fnjplay.xyz/\",\"api\":\"premium49,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport 1 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=47|referer=https://fnjplay.xyz/\",\"api\":\"premium47,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SONY TEN 2 HD",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=886|referer=https://fnjplay.xyz/\",\"api\":\"premium886,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport Uno IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=461|referer=https://fnjplay.xyz/\",\"api\":\"premium461,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=400|referer=https://fnjplay.xyz/\",\"api\":\"premium400,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 1 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=583|referer=https://fnjplay.xyz/\",\"api\":\"premium583,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 3 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=919|referer=https://fnjplay.xyz/\",\"api\":\"premium919,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 1 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=134|referer=https://fnjplay.xyz/\",\"api\":\"premium134,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport 3 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=467|referer=https://fnjplay.xyz/\",\"api\":\"premium467,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SporTV BR",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=78|referer=https://fnjplay.xyz/\",\"api\":\"premium78,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Premier League",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=414|referer=https://fnjplay.xyz/\",\"api\":\"premium414,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport MaXimo 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=572|referer=https://fnjplay.xyz/\",\"api\":\"premium572,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=92|referer=https://fnjplay.xyz/\",\"api\":\"premium92,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 1 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=101|referer=https://fnjplay.xyz/\",\"api\":\"premium101,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Denmark vs Greece",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 1 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=140|referer=https://fnjplay.xyz/\",\"api\":\"premium140,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova TV Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=19|referer=https://fnjplay.xyz/\",\"api\":\"premium19,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 5 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=592|referer=https://fnjplay.xyz/\",\"api\":\"premium592,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV2 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=74|referer=https://fnjplay.xyz/\",\"api\":\"premium74,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Polsat Sport 3 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=129|referer=https://fnjplay.xyz/\",\"api\":\"premium129,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 2 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=401|referer=https://fnjplay.xyz/\",\"api\":\"premium401,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 3 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=585|referer=https://fnjplay.xyz/\",\"api\":\"premium585,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 4 Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=581|referer=https://fnjplay.xyz/\",\"api\":\"premium581,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports 1 Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=631|referer=https://fnjplay.xyz/\",\"api\":\"premium631,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Diema Sport Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=465|referer=https://fnjplay.xyz/\",\"api\":\"premium465,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN4 Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=85|referer=https://fnjplay.xyz/\",\"api\":\"premium85,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN2 Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=150|referer=https://fnjplay.xyz/\",\"api\":\"premium150,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Laliga",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=415|referer=https://fnjplay.xyz/\",\"api\":\"premium415,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=91|referer=https://fnjplay.xyz/\",\"api\":\"premium91,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA English 1",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=61|referer=https://fnjplay.xyz/\",\"api\":\"premium61,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Croatia vs Gibraltar",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 3 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=142|referer=https://fnjplay.xyz/\",\"api\":\"premium142,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Sports 1 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=39|referer=https://fnjplay.xyz/\",\"api\":\"premium39,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TVP Sport Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=128|referer=https://fnjplay.xyz/\",\"api\":\"premium128,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TVP1 Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=560|referer=https://fnjplay.xyz/\",\"api\":\"premium560,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sky Sport 3 NZ",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=590|referer=https://fnjplay.xyz/\",\"api\":\"premium590,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SONY TEN 3 HD",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=887|referer=https://fnjplay.xyz/\",\"api\":\"premium887,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Prima Sport 2 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=584|referer=https://fnjplay.xyz/\",\"api\":\"premium584,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV3 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=454|referer=https://fnjplay.xyz/\",\"api\":\"premium454,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Digi Sport 3 Romania",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=402|referer=https://fnjplay.xyz/\",\"api\":\"premium402,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Ziggo Sport 2 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=398|referer=https://fnjplay.xyz/\",\"api\":\"premium398,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena 4 Premium Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=20|referer=https://fnjplay.xyz/\",\"api\":\"premium20,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sports Start Greece",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=637|referer=https://fnjplay.xyz/\",\"api\":\"premium637,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Nova Sport Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=468|referer=https://fnjplay.xyz/\",\"api\":\"premium468,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 4 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=104|referer=https://fnjplay.xyz/\",\"api\":\"premium104,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport Variety 3",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=418|referer=https://fnjplay.xyz/\",\"api\":\"premium418,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 3",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=93|referer=https://fnjplay.xyz/\",\"api\":\"premium93,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "18:45-World Cup Qualifying : Lithuania vs Poland",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 2 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=141|referer=https://fnjplay.xyz/\",\"api\":\"premium141,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-United States - NCAA Women's Soccer : Yale vs Harvard",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPNU USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=316|referer=https://fnjplay.xyz/\",\"api\":\"premium316,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Málaga vs Deportivo La Coruña",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=LALIGA TV Hypermotion",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=539|referer=https://fnjplay.xyz/\",\"api\":\"premium539,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Spain - Segunda Division : Málaga vs Deportivo La Coruña",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=beIN Sports MENA 5",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=95|referer=https://fnjplay.xyz/\",\"api\":\"premium95,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Brazil - Serie B : Novorizontino vs Operário PR",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=81|referer=https://fnjplay.xyz/\",\"api\":\"premium81,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Burkina Faso vs Ethiopia",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN+ USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=55|referer=https://fnjplay.xyz/\",\"api\":\"premium55,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Djibouti vs Sierra Leone",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN+ USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=86|referer=https://fnjplay.xyz/\",\"api\":\"premium86,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Ghana vs Comoros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportdigital FUSSBALL DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=571|referer=https://fnjplay.xyz/\",\"api\":\"premium571,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Ghana vs Comoros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN 2 NL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=386|referer=https://fnjplay.xyz/\",\"api\":\"premium386,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Ghana vs Comoros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 6 Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=941|referer=https://fnjplay.xyz/\",\"api\":\"premium941,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Ghana vs Comoros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=SuperSport PSL",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=413|referer=https://fnjplay.xyz/\",\"api\":\"premium413,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Ghana vs Comoros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub HD Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=453|referer=https://fnjplay.xyz/\",\"api\":\"premium453,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Egypt vs Guinea-Bissau",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ON Time Sports Egypt",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=611|referer=https://fnjplay.xyz/\",\"api\":\"premium611,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Egypt vs Guinea-Bissau",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV6 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=291|referer=https://fnjplay.xyz/\",\"api\":\"premium291,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Egypt vs Guinea-Bissau",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 3 Serbia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=431|referer=https://fnjplay.xyz/\",\"api\":\"premium431,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-World Cup Qualifying : Egypt vs Guinea-Bissau",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportklub 3 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=103|referer=https://fnjplay.xyz/\",\"api\":\"premium103,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Colombia - Primera A : Santa Fe vs Llaneros",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Win+ Futbol Colombia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=392|referer=https://fnjplay.xyz/\",\"api\":\"premium392,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Uruguay - Primera Division : Danubio vs Nacional",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=VTV+ Uruguay",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=391|referer=https://fnjplay.xyz/\",\"api\":\"premium391,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:00-Uruguay - Primera Division : Danubio vs Nacional",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=GOLTV USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=597|referer=https://fnjplay.xyz/\",\"api\":\"premium597,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:30-United States - NCAA Women's Soccer : Notre Dame vs SMU",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ACC Network USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=664|referer=https://fnjplay.xyz/\",\"api\":\"premium664,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:45-Argentina - Primera División : Instituto vs Atlético Tucumán",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TNT Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=388|referer=https://fnjplay.xyz/\",\"api\":\"premium388,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "19:45-Argentina - Primera División : Independiente Rivadavia vs Godoy Cruz",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Premium Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=387|referer=https://fnjplay.xyz/\",\"api\":\"premium387,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Soccer Plus",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=756|referer=https://fnjplay.xyz/\",\"api\":\"premium756,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=NBC UNIVERSO USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=845|referer=https://fnjplay.xyz/\",\"api\":\"premium845,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TSN2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=112|referer=https://fnjplay.xyz/\",\"api\":\"premium112,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match TV Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=127|referer=https://fnjplay.xyz/\",\"api\":\"premium127,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match! Football 1 Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=136|referer=https://fnjplay.xyz/\",\"api\":\"premium136,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Rai Sport IT",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=882|referer=https://fnjplay.xyz/\",\"api\":\"premium882,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:00-FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Magenta Sport 318",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=77|referer=https://fnjplay.xyz/\",\"api\":\"premium77,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:10-Argentina - Primera Nacional : Estudiantes Caseros vs Deportivo Maipú",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TyC Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=746|referer=https://fnjplay.xyz/\",\"api\":\"premium746,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "20:30-Peru - Primera Division : Alianza Atlético vs Los Chankas",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Liga 1 Max Peru",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=6|referer=https://fnjplay.xyz/\",\"api\":\"premium6,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "21:00-NWSL : Angel City vs Houston Dash",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=44|referer=https://fnjplay.xyz/\",\"api\":\"premium44,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "21:00-NWSL : Angel City vs Houston Dash",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Deportes",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=375|referer=https://fnjplay.xyz/\",\"api\":\"premium375,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "21:00-NWSL : Angel City vs Houston Dash",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN2 Mexico",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=926|referer=https://fnjplay.xyz/\",\"api\":\"premium926,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "21:00-NWSL : Angel City vs Houston Dash",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN3 Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=83|referer=https://fnjplay.xyz/\",\"api\":\"premium83,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "21:10-Colombia - Primera A : Alianza vs Junior",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Win+ Futbol Colombia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=392|referer=https://fnjplay.xyz/\",\"api\":\"premium392,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:10-Argentina - Primera Nacional : Estudiantes Río Cuarto vs Patronato",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TyC Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=746|referer=https://fnjplay.xyz/\",\"api\":\"premium746,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:15-Argentina - Primera División : River Plate vs Sarmiento",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TNT Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=388|referer=https://fnjplay.xyz/\",\"api\":\"premium388,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:15-Argentina - Primera División : River Plate vs Sarmiento",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport TV1 Portugal",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=49|referer=https://fnjplay.xyz/\",\"api\":\"premium49,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:15-Argentina - Primera División : River Plate vs Sarmiento",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Movistar Liga de Campeones",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=435|referer=https://fnjplay.xyz/\",\"api\":\"premium435,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:15-Argentina - Primera División : River Plate vs Sarmiento",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Arena Sport 3 Croatia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=434|referer=https://fnjplay.xyz/\",\"api\":\"premium434,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "22:15-Argentina - Primera División : River Plate vs Sarmiento",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 1 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=140|referer=https://fnjplay.xyz/\",\"api\":\"premium140,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Major League Soccer : Austin vs Los Angeles FC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MLS Season Pass",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=59|referer=https://fnjplay.xyz/\",\"api\":\"premium59,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Major League Soccer : Austin vs Los Angeles FC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TRT Spor Turkey",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=889|referer=https://fnjplay.xyz/\",\"api\":\"premium889,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Major League Soccer : Austin vs Los Angeles FC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sportdigital FUSSBALL DE",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=571|referer=https://fnjplay.xyz/\",\"api\":\"premium571,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Major League Soccer : Austin vs Los Angeles FC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=MAX Sport 4 Bulgaria",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=475|referer=https://fnjplay.xyz/\",\"api\":\"premium475,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Major League Soccer : Austin vs Los Angeles FC",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Sport 4 Israel",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=143|referer=https://fnjplay.xyz/\",\"api\":\"premium143,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-FIFA U20 WC Quarter Final 4 : Norway U20 vs France U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Fox Sports 1 USA",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=39|referer=https://fnjplay.xyz/\",\"api\":\"premium39,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-FIFA U20 WC Quarter Final 4 : Norway U20 vs France U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TSN2",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=112|referer=https://fnjplay.xyz/\",\"api\":\"premium112,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-FIFA U20 WC Quarter Final 4 : Norway U20 vs France U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TVP Sport Poland",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=128|referer=https://fnjplay.xyz/\",\"api\":\"premium128,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-FIFA U20 WC Quarter Final 4 : Norway U20 vs France U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match TV Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=127|referer=https://fnjplay.xyz/\",\"api\":\"premium127,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-FIFA U20 WC Quarter Final 4 : Norway U20 vs France U20",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Match! Football 1 Russia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=136|referer=https://fnjplay.xyz/\",\"api\":\"premium136,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:00-Peru - Primera Division : Cusco vs Comerciantes Unidos",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Liga 1 Max Peru",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=6|referer=https://fnjplay.xyz/\",\"api\":\"premium6,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:20-Colombia - Primera A : Atlético Bucaramanga vs Unión Magdalena",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Win+ Futbol Colombia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=392|referer=https://fnjplay.xyz/\",\"api\":\"premium392,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "23:30-Brazil - Serie B : Cuiabá vs Coritiba",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Brazil",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=81|referer=https://fnjplay.xyz/\",\"api\":\"premium81,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "00:15-Argentina - Primera División : Independiente vs Lanús",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=ESPN Premium Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=387|referer=https://fnjplay.xyz/\",\"api\":\"premium387,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "00:15-Argentina - Primera Nacional : Deportivo Morón vs San Martín Tucumán",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=TyC Sports Argentina",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=746|referer=https://fnjplay.xyz/\",\"api\":\"premium746,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
+  },
+  {
+    "name": "01:30-Colombia - Primera A : Rionegro Águilas vs Deportivo Pasto",
+    "link": "",
+    "logo": "https://placehold.co/400x300/0D2B4D/ffffff.gif?text=Win+ Futbol Colombia",
+    "api": "{\"url\":\"https://fnjplay.xyz/premiumtv/daddyhd.php?id=392|referer=https://fnjplay.xyz/\",\"api\":\"premium392,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6|fMV0jMC6Nl93LYDqkMLxjMZiNdDqkBHiLYGqNdGrjF\",\"type\":\"daddy\"}"
   }
 ]
