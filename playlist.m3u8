@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HubSports4HD" tvg-name="HubSports4HD" tvg-logo="https://example.com/hubsports4hd_logo.png" group-title="StarHub Sports",HubSports4HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.starhubgo.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a29d4f3b6e540b3aa2f36927c01b6f4":"57b670b45b5cb453a9f48fa975b702c1"}
+https://sh-bks400-08.starhubgo.com/bpk-token/1aa@ufe1udeyqmtoqu3fsomqsiwjhambzg3aup5t1vda/bpk-tv/HubSports4HDnew/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="HubSports4SD" tvg-name="HubSports4SD" tvg-logo="https://example.com/hubsports4sd_logo.png" group-title="StarHub Sports",HubSports4SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.starhubgo.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a29d4f3b6e540b3aa2f36927c01b6f4":"57b670b45b5cb453a9f48fa975b702c1"}
+https://sh-bks400-08.starhubgo.com/bpk-token/1aa@ufe1udeyqmtoqu3fsomqsiwjhambzg3aup5t1vda/bpk-tv/HubSports4SD/output/manifest.mpd
